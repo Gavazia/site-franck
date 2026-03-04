@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "source_file": "index.md",
+      "asset_url": "https://lh3.googleusercontent.com/sitesv/APaQ0SRDz6YijykrW0mlMn2jiEuDAc11EAsOYMSz0RcTSRIXM3CXbDbMQYlEtoNQ738ZtJiZ529FU_A3lYkEkWpJMR5DlQ_j-fyoZmZYDpcvk8_85c26PEyU8l7pM0AJkYvQd--N0LAimFttaUkMI4lD_SURHg3Zoi8mMRxWXut5_RgmtCfSQCXQbMDQxgIO8Wm0IeDotw=w1280",
+      "is_accessible": false,
+      "status_message": "HTTP Error 403: Requires bypass"
+    },
+    {
+      "source_file": "publications.md",
+      "asset_url": "http://www.44pointalaligne.fr/wp-content/uploads/2013/07/www.actuel-hse.fr\\_securite-travail-environnement\\_article.pdf](http://www.44pointalaligne.fr/wp-content/uploads/2013/07/www.actuel-hse.fr_securite-travail-environnement_article.pdf",
+      "is_accessible": false,
+      "status_message": "Error connecting: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "source_file": "publications.md",
+      "asset_url": "http://franck.bietry.free.fr/entreprise%20carrieres%20Bietry.pdf",
+      "is_accessible": false,
+      "status_message": "HTTP Error 404: Requires bypass"
+    }
+  ]
+}

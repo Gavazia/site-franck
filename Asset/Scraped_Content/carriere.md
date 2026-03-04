@@ -24,7 +24,6 @@ Classé A (contingent des 20%)
 
 - Ouvrage sélectionné par le CEREQ « parmi les parutions les plus notables dans le domaine de la relation formation-emploi » revue Formation Emploi rubrique Lectures, n° 85, janvier-mars 2004
 
-
 ### Formation
 
 Titulaire : Habilitation à diriger des recherches

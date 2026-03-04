@@ -6,13 +6,11 @@
 
 - Garant d’habilitation à diriger des recherches (HDR) :
 
-
 Nicolas Raineri (en cours de rédaction)
 
 J. Creusier « Le rôle de la collecte de données dans la qualité des recherches scientifiques ». HDR soutenue à Caen, le 5 octobre 2017
 
 - Directeur de recherches doctorales :
-
 
 J. Creusier (Allocataire de recherche moniteur, CEFAG) « Le rôle du bien-être au travail dans la relation satisfaction au travail – implication affective » Thèse soutenue à Caen le 11 décembre 2013, mention très honorable félicitations du jury à l’unanimité, proposition pour le prix national de thèse AGRH
 
@@ -42,11 +40,9 @@ Céline Rogoff : « Récits professionnels collectifs et identité narrative : V
 
 - Encadrement d’études professionnelles dans le cadre des Master 2 Gestion des ressources humaines, Management des opérations, Contrôle de gestion, MAE, Développement international de la PME-PMI, Master 1 audit de l’entreprise et de la licence management des entreprises
 
-
 ### Comités de lecture scientifiques
 
 - Rédacteur associé puis Co-Rédacteur en chef 2019-2025 de la Revue Internationale de Psychosociologie et de gestion des Comportements Organisationnels (RIPCO : 2019 non classée, CNRS 4 en 2020, FNEGE 3 en 2022)
-
 
 Contribution active à la définition des orientations stratégiques et de la ligne éditoriale de la revue
 
@@ -87,7 +83,6 @@ Coordination de numéros spéciaux
 - Membre du comité de lecture de la conférence de l’AIMS (Grenoble 2009, Nice 2008, Montréal 2007, Genève 2006, Angers 2005, Le Havre 2004)
 
 - Membre du comité de lecture des XIXèmes journées Nationales des IAE, (Lille, 2008, Montpellier 2006, Paris 2002)
-
 
 ### Autres responsabilités
 

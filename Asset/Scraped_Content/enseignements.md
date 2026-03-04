@@ -10,7 +10,6 @@ J'enseigne à des publics:
 
 - et à des salariés en formation continue en ligne (FOAD) (21%).
 
-
 Depuis 2000   Maître de conférences puis professeur des universités à l’I.A.E. de l’Université de Caen
 
 Gestion des ressources humaines, planification des effectifs, stratégie des rémunérations, relations collectives, contrôle de gestion sociale, qualité de vie au travail, méthodologie de recherche qualitative, comportement organisationnel (OB), prévention des risques psychosociaux, écriture académique
@@ -22,7 +21,6 @@ Gestion des ressources humaines, planification des effectifs, stratégie des ré
 - Directeur de recherches doctorales
 
 - Encadrement de mémoires, rapports de stages et études professionnelles
-
 
 1994-2000      Maître de conférences à l’I.A.E. de l’Université de Rouen
 
@@ -51,7 +49,6 @@ Encadrement de rapports de stage
 1989-1991      Enseignant vacataire à l'UFR.STAPS de l'Université de Caen
 
 - Licence : Comptabilité générale, Analyse financière, Marketing
-
 
 ### Ingénierie pédagogique
 

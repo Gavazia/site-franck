@@ -1,6 +1,7 @@
 # Sitemap & User Flows: Franck Bietry Portfolio
 
 ## 1. Global Sitemap (Architecture)
+
 The site is divided into a Read-Only public facing area (optimized for SEO and UX) and a protected Administrative dashboard.
 
 ```mermaid
@@ -24,6 +25,7 @@ graph TD
 ## 2. Core User Flows
 
 ### Flow A: The "Recruiter / Dean" Journey (Public Profile Discovery)
+
 This flow ensures that when someone searches "Franck Bietry", they land on a highly optimized, visually stunning page that immediately communicates his authority.
 
 ```mermaid
@@ -45,6 +47,7 @@ journey
 ```
 
 ### Flow B: The "Franck" Journey (Content Management)
+
 A zero-friction administrative experience. Franck does not want to write code or deal with complex CMS systems; he wants to drop content and publish.
 
 ```mermaid
@@ -70,5 +73,6 @@ sequenceDiagram
 ```
 
 ## 3. UI Navigation Specifications
-*   **Desktop**: Floating glass Navbar (sticky at top). Links: *Inicio, Trayectoria, Publicaciones, Blog*.
-*   **Mobile**: Bottom navigation bar (App-like feel) or a minimalist top-right hamburger menu opening a full-screen blurred glass overlay.
+
+* **Desktop**: Floating glass Navbar (sticky at top). Links: *Inicio, Trayectoria, Publicaciones, Blog*.
+* **Mobile**: Bottom navigation bar (App-like feel) or a minimalist top-right hamburger menu opening a full-screen blurred glass overlay.

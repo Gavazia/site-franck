@@ -12,18 +12,22 @@ This skill document defines the Golden Path for integrating InsForge into our Sa
 InsForge provides a dedicated SDK for TypeScript/Next.js.
 
 ### Dependencies
+
 ```bash
 npm install @insforge/sdk
 ```
 
 ### Environment Variables
+
 Required in `.env.local`:
+
 ```env
 NEXT_PUBLIC_INSFORGE_URL=https://your-project.us-east.insforge.app
 NEXT_PUBLIC_INSFORGE_ANON_KEY=your-anon-key
 ```
 
 ### Client Initialization (lib/insforge.ts)
+
 Create a single instance of the client to be used across the application.
 
 ```typescript
@@ -41,6 +45,7 @@ export const insforge = createClient({
 InsForge syntax is heavily inspired by standard BaaS providers. Use it seamlessly in Next.js Server Components.
 
 ### Fetching Data (Server Component Example)
+
 ```typescript
 import { insforge } from '@/lib/insforge';
 
@@ -74,9 +79,11 @@ InsForge handles file uploads (Images, PDFs) which is critical for the Franck Po
 ## 4. AI Capabilities
 
 InsForge's primary differentiator is its built-in AI layer.
+
 - Ensure to utilize the AI layer for search, chat completions, or data processing as required by the PRD.
 
 ## 5. Security Checklist
+
 - [ ] Never expose `SERVICE_ROLE` or admin keys in the frontend.
 - [ ] Always use the `NEXT_PUBLIC` prefix ONLY for the Anon Key.
 - [ ] Validate all inputs using `zod` before sending mutations to InsForge.
